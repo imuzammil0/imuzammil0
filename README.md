@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuzammilo&label=Profile%20views&color=0e75b6&style=flat" alt="imuzammilo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuzammilo" alt="imuzammilo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/i_nym0s" target="blank"><img src="https://img.shields.io/twitter/follow/i_nym0s?logo=twitter&style=for-the-badge" alt="i_nym0s" /></a> </p>
 
